@@ -10,10 +10,12 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
         android:text="ABC Ptd Ltd \nWe now have 3 branches. Look for the\naddress and info" />
 
     <Spinner
         android:id="@+id/spinner"
+        android:layout_marginBottom="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 

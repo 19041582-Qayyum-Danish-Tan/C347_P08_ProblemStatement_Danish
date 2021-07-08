@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
                         .title("North - HQ:")
                         .snippet("Block 333, Admiralty Ave 3, 765654 Operating hours: 10am-5pm\n" +
                                 "Tel:65433456\n")
-                        .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_RED)));
+                        .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_MAGENTA)));
 
                 LatLng Central = new LatLng(1.3050457461687082, 103.83215548202445);;
                 Marker central = map.addMarker(new

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P08_ProblemStatement_Danish</string>
+        <string-array name="location_array">
+            <item>Location Spinner</item>
+            <item>NORTH</item>
+            <item>CENTRAL</item>
+            <item>EAST</item>
+        </string-array>
+</resources>
